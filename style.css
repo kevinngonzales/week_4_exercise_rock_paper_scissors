@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-size: 18px;
+  display: flex;
+  justify-content: center; 
+  font-family: Trebuchet MS, sans-serif;
+}
+
+body {
+  background-image: url(https://assets.iflscience.com/assets/articleNo/36274/aImg/12658/1465920893-cover-image-o.webp);
+  background-size: cover;
+  background-position: center center;
+}
